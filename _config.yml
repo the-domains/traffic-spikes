@@ -1,0 +1,28 @@
+name: Traffic Spikes
+favicon: null
+layout_spectrum: 0.9354533844161779
+typography_spectrum: 0.4044227332342416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20821946277283132
+  lightness: 0.6642380114644766
+  saturation: 0.5391805220860988
+  rhythmicContrast: 0.4260290355887264
+purpose: []
